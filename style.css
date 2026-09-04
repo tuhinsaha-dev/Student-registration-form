@@ -1,0 +1,19 @@
+body {
+    background-color: rgba(232,218,207);
+}
+div{
+    color:rgb(241, 240, 240);
+    background-color:rgb(34, 107, 241);
+}
+h4{
+    
+    color:#000080;
+}
+#one{
+    background-color:white;
+    font-weight:bold;
+    color:red;
+}
+body{
+    font-family:serif;
+}
