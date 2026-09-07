@@ -17,7 +17,14 @@ h4{
 body{
     font-family:serif;
 }
-input, select, textarea {
-    max-width: 100%;
-    box-sizing: border-box;
+@media (max-width: 600px) {
+    body {
+        padding: 10px;
+        overflow-x: hidden;
+    }
+
+    input, select, textarea {
+        max-width: 100%;
+        box-sizing: border-box;
+    }
 }
