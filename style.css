@@ -17,3 +17,7 @@ h4{
 body{
     font-family:serif;
 }
+input, select, textarea {
+    max-width: 100%;
+    box-sizing: border-box;
+}
